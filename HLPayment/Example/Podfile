@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/HuuLiang/HLPodRepo.git'
+platform :ios, '8.0'
+
+#use_frameworks!
+
+inhibit_all_warnings!
+
+target 'HLPayment_Example' do
+    pod 'OpenSSL', '~> 1.0.210'
+    pod 'HLPayment', :path => '../'
+    pod 'Masonry'
+end

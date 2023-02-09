@@ -1,0 +1,12 @@
+/* 
+  HLImagePickerLocalizable.strings
+  Pods
+
+  Created by Liang on 2019/6/28.
+  
+*/
+
+"Gallery.Images.Title" = "相册";
+"Gallery.Camera.Title" = "相机";
+"Gallery.Videos.Title" = "视频";
+

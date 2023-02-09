@@ -1,0 +1,11 @@
+/* 
+  HLImagePickerLocalizable.strings
+  Pods
+
+  Created by Liang on 2019/6/28.
+  
+*/
+
+"Gallery.Images.Title" = "PHOTOS";
+"Gallery.Camera.Title" = "CAMERA";
+"Gallery.Videos.Title" = "VIDEOS";
